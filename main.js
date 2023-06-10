@@ -11,7 +11,7 @@ $( "#m" ).on( "click", ()=> {
         $("#mm div").css("background-color","black");
         $("#mm div").css("opacity","0.3");
         $("#mm div").css("user-select","none");
-    },500)
+    },1000)
 } );
 
 // const toastTrigger = document.getElementById('liveToastBtn')
